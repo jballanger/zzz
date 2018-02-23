@@ -1,0 +1,16 @@
+body {
+  overflow: hidden;
+}
+
+.content {
+  display: flex;
+  height: -webkit-fill-available;
+  align-items: center;
+  justify-content: center;
+}
+
+#volcano {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+}
